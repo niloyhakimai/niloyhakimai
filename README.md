@@ -37,12 +37,11 @@ Hi, I'm **Niloy Hakim**. I am on a **Build in Public** mission to merge modern, 
 </p>
 
 ---
-
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niloynh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloynh&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niloyhakimai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloyhakimai&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 
 ---
