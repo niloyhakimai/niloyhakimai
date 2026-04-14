@@ -8,11 +8,9 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niloyhakimai/niloyhakimai/main/github-metrics.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niloyhakimai/niloyhakimai/main/github-metrics.svg">
-    <img src="https://raw.githubusercontent.com/niloyhakimai/niloyhakimai/main/github-metrics.svg" alt="Metrics Dashboard" width="100%">
-  </picture>
+  <div align="center">
+  <img src="https://metrics.lecoq.io/niloyhakimai?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FDhaka&plugin.isocalendar=true&plugin.isocalendar.duration=half-year&plugin.habits=true&plugin.habits.from=200&plugin.habits.days=14&plugin.habits.facts=true&plugin.habits.charts=true&plugin.languages=true&plugin.languages.colors=github&plugin.languages.limit=8" alt="Metrics Dashboard" width="100%">
+</div>
 </div>
 
 <br/>
