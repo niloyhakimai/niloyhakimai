@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niloy Hakim</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer from Bangladesh</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Full-Stack+Applications;Specialized+in+Next.js+%26+React;Integrating+AI+into+Modern+Web;Turning+Coffee+into+Code..." alt="Typing SVG Animation" />
